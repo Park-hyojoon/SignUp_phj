@@ -40,7 +40,10 @@
         android:layout_height="wrap_content"
         android:hint="한 줄로 입력"
         android:singleLine="true"
-        android:imeOptions="actionGo"
-        />
+        android:imeOptions="actionGo" />
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="확인"
 </LinearLayout>
